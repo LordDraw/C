@@ -1,4 +1,4 @@
-aby dodawac nowe pliki na github nalezy wpisac nastepujace komendy:
+aby dodawac nowe pliki na github nalezy wpisac nastepujace komendy (kolejnosc jest wazna):
 git add .
 git commit -am "jakis tekst"
 git push origin master
