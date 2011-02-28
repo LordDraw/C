@@ -1,7 +1,6 @@
+/* plik biblioteka.c */
 #include <stdio.h>
-/* plik glowny.c */
-main() {
+void hej(void) {
   printf("hello world\n");
 }
 
-/* plik biblioteka.c */
