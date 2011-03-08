@@ -6,7 +6,7 @@ int a;
 int pierw;
 printf("Podaj jakas liczbe rzeczywista : \n");
 scanf("%f",&a);
-if (a<=0)
+if (a<0)
 {
 printf ("blad! Liczby ujemne oraz zero nie maja pierwiastkow kwadratowych!");
 return 0;
