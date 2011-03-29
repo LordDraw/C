@@ -1,0 +1,1 @@
+void rysuj_szachownice();
