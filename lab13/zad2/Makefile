@@ -1,105 +1,4 @@
-    <dt>U</dt>
-          <dd>Mark selected as unread</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt>e</dt>
-          <dd>Close selected</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt>y</dt>
-          <dd>Remove selected from view</dd>
-        </dl>
-      </div><!-- /.column.middle -->
-      <div class="column last">
-        <dl class="keyboard-mappings">
-          <dt>c</dt>
-          <dd>Create issue</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt>l</dt>
-          <dd>Create label</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt>i</dt>
-          <dd>Back to inbox</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt>u</dt>
-          <dd>Back to issues</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt>/</dt>
-          <dd>Focus issues search</dd>
-        </dl>
-      </div>
-    </div>
-  </div>
-
-  <div style='display:none'>
-    <div class="rule"></div>
-
-    <h3>Network Graph</h3>
-    <div class="columns equacols">
-      <div class="column first">
-        <dl class="keyboard-mappings">
-          <dt><span class="badmono">←</span> <em>or</em> h</dt>
-          <dd>Scroll left</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt><span class="badmono">→</span> <em>or</em> l</dt>
-          <dd>Scroll right</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt><span class="badmono">↑</span> <em>or</em> k</dt>
-          <dd>Scroll up</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt><span class="badmono">↓</span> <em>or</em> j</dt>
-          <dd>Scroll down</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt>t</dt>
-          <dd>Toggle visibility of head labels</dd>
-        </dl>
-      </div><!-- /.column.first -->
-      <div class="column last">
-        <dl class="keyboard-mappings">
-          <dt>shift <span class="badmono">←</span> <em>or</em> shift h</dt>
-          <dd>Scroll all the way left</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt>shift <span class="badmono">→</span> <em>or</em> shift l</dt>
-          <dd>Scroll all the way right</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt>shift <span class="badmono">↑</span> <em>or</em> shift k</dt>
-          <dd>Scroll all the way up</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt>shift <span class="badmono">↓</span> <em>or</em> shift j</dt>
-          <dd>Scroll all the way down</dd>
-        </dl>
-      </div><!-- /.column.last -->
-    </div>
-  </div>
-
-  <div >
-    <div class="rule"></div>
-    <div class="columns threecols">
-      <div class="column first" >
-        <h3>Source Code Browsing</h3>
-        <dl class="keyboard-mappings">
-          <dt>t</dt>
-          <dd>Activates the file finder</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt>l</dt>
-          <dd>Jump to line</dd>
-        </dl>
-        <dl class="keyboard-mappings">
-          <dt>y</dt>
-          <dd>Expand URL to its canonical form</dd>
-        </dl>
+ </dl>
       </div>
     </div>
   </div>
@@ -135,7 +34,7 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-        <title>struktury/zad2/main.c at master from mmotel/c - GitHub</title>
+        <title>struktury/zad2/Makefile at master from mmotel/c - GitHub</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
 
@@ -166,7 +65,7 @@
     </script>
 
     
-  <link rel='canonical' href='/mmotel/c/blob/2c1d91162aa86e96c599f6fe78bf3c3ff5994326/struktury/zad2/main.c'>
+  <link rel='canonical' href='/mmotel/c/blob/2c1d91162aa86e96c599f6fe78bf3c3ff5994326/struktury/zad2/Makefile'>
 
   <link href="https://github.com/mmotel/c/commits/master.atom" rel="alternate" title="Recent Commits to c:master" type="application/atom+xml" />
 
@@ -175,7 +74,7 @@
       GitHub.nameWithOwner = GitHub.nameWithOwner || "mmotel/c";
       GitHub.currentRef = 'master';
       GitHub.commitSHA = "2c1d91162aa86e96c599f6fe78bf3c3ff5994326";
-      GitHub.currentPath = 'struktury/zad2/main.c';
+      GitHub.currentPath = 'struktury/zad2/Makefile';
       GitHub.masterBranch = "master";
 
       
@@ -596,8 +495,8 @@
 
   
 
-    <div class="breadcrumb" data-path="struktury/zad2/main.c/">
-      <b><a href="/mmotel/c/tree/1b1382b3c68aa72230b6f29fd59b2d3466db0489">c</a></b> / <a href="/mmotel/c/tree/1b1382b3c68aa72230b6f29fd59b2d3466db0489/struktury">struktury</a> / <a href="/mmotel/c/tree/1b1382b3c68aa72230b6f29fd59b2d3466db0489/struktury/zad2">zad2</a> / main.c       <span style="display:none" id="clippy_1726">struktury/zad2/main.c</span>
+    <div class="breadcrumb" data-path="struktury/zad2/Makefile/">
+      <b><a href="/mmotel/c/tree/1b1382b3c68aa72230b6f29fd59b2d3466db0489">c</a></b> / <a href="/mmotel/c/tree/1b1382b3c68aa72230b6f29fd59b2d3466db0489/struktury">struktury</a> / <a href="/mmotel/c/tree/1b1382b3c68aa72230b6f29fd59b2d3466db0489/struktury/zad2">zad2</a> / Makefile       <span style="display:none" id="clippy_921">struktury/zad2/Makefile</span>
       
       <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
               width="110"
@@ -608,7 +507,7 @@
       <param name="allowScriptAccess" value="always" />
       <param name="quality" value="high" />
       <param name="scale" value="noscale" />
-      <param NAME="FlashVars" value="id=clippy_1726&amp;copied=copied!&amp;copyto=copy to clipboard">
+      <param NAME="FlashVars" value="id=clippy_921&amp;copied=copied!&amp;copyto=copy to clipboard">
       <param name="bgcolor" value="#FFFFFF">
       <param name="wmode" value="opaque">
       <embed src="https://d3nwyuy0nl342s.cloudfront.net/flash/clippy.swf?v5"
@@ -619,7 +518,7 @@
              allowScriptAccess="always"
              type="application/x-shockwave-flash"
              pluginspage="http://www.macromedia.com/go/getflashplayer"
-             FlashVars="id=clippy_1726&amp;copied=copied!&amp;copyto=copy to clipboard"
+             FlashVars="id=clippy_921&amp;copied=copied!&amp;copyto=copy to clipboard"
              bgcolor="#FFFFFF"
              wmode="opaque"
       />
@@ -629,11 +528,11 @@
     </div>
 
     <div class="frames">
-      <div class="frame frame-center" data-path="struktury/zad2/main.c/" data-canonical-url="/mmotel/c/blob/1b1382b3c68aa72230b6f29fd59b2d3466db0489/struktury/zad2/main.c">
+      <div class="frame frame-center" data-path="struktury/zad2/Makefile/" data-canonical-url="/mmotel/c/blob/1b1382b3c68aa72230b6f29fd59b2d3466db0489/struktury/zad2/Makefile">
         
           <ul class="big-actions">
             
-            <li><a class="file-edit-link minibutton" href="/mmotel/c/file-edit/__current_ref__/struktury/zad2/main.c"><span>Edit this file</span></a></li>
+            <li><a class="file-edit-link minibutton" href="/mmotel/c/file-edit/__current_ref__/struktury/zad2/Makefile"><span>Edit this file</span></a></li>
           </ul>
         
 
@@ -644,20 +543,20 @@
                 <span class="icon"><img alt="Txt" height="16" src="https://d3nwyuy0nl342s.cloudfront.net/images/icons/txt.png" width="16" /></span>
                 <span class="mode" title="File Mode">100644</span>
                 
-                  <span>26 lines (18 sloc)</span>
+                  <span>9 lines (6 sloc)</span>
                 
-                <span>0.367 kb</span>
+                <span>0.124 kb</span>
               </div>
               <ul class="actions">
-                <li><a href="/mmotel/c/raw/master/struktury/zad2/main.c" id="raw-url">raw</a></li>
+                <li><a href="/mmotel/c/raw/master/struktury/zad2/Makefile" id="raw-url">raw</a></li>
                 
-                  <li><a href="/mmotel/c/blame/master/struktury/zad2/main.c">blame</a></li>
+                  <li><a href="/mmotel/c/blame/master/struktury/zad2/Makefile">blame</a></li>
                 
-                <li><a href="/mmotel/c/commits/master/struktury/zad2/main.c">history</a></li>
+                <li><a href="/mmotel/c/commits/master/struktury/zad2/Makefile">history</a></li>
               </ul>
             </div>
             
-  <div class="data type-c">
+  <div class="data type-makefile">
     
       <table cellpadding="0" cellspacing="0">
         <tr>
@@ -671,29 +570,12 @@
 <span id="L7" rel="#L7">7</span>
 <span id="L8" rel="#L8">8</span>
 <span id="L9" rel="#L9">9</span>
-<span id="L10" rel="#L10">10</span>
-<span id="L11" rel="#L11">11</span>
-<span id="L12" rel="#L12">12</span>
-<span id="L13" rel="#L13">13</span>
-<span id="L14" rel="#L14">14</span>
-<span id="L15" rel="#L15">15</span>
-<span id="L16" rel="#L16">16</span>
-<span id="L17" rel="#L17">17</span>
-<span id="L18" rel="#L18">18</span>
-<span id="L19" rel="#L19">19</span>
-<span id="L20" rel="#L20">20</span>
-<span id="L21" rel="#L21">21</span>
-<span id="L22" rel="#L22">22</span>
-<span id="L23" rel="#L23">23</span>
-<span id="L24" rel="#L24">24</span>
-<span id="L25" rel="#L25">25</span>
-<span id="L26" rel="#L26">26</span>
 </pre>
           </td>
           <td width="100%">
             
               
-                <div class="highlight"><pre><div class='line' id='LC1'><span class="cp">#include&lt;stdio.h&gt;</span></div><div class='line' id='LC2'><span class="cp">#include &quot;lib.h&quot;</span></div><div class='line' id='LC3'><br/></div><div class='line' id='LC4'><span class="k">struct</span> <span class="n">point</span> <span class="p">{</span></div><div class='line' id='LC5'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">int</span> <span class="n">x</span><span class="p">;</span></div><div class='line' id='LC6'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">int</span> <span class="n">y</span><span class="p">;</span></div><div class='line' id='LC7'><span class="p">};</span></div><div class='line' id='LC8'><br/></div><div class='line' id='LC9'><span class="k">struct</span> <span class="n">rect</span> <span class="p">{</span></div><div class='line' id='LC10'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">struct</span> <span class="n">point</span> <span class="n">ll</span><span class="p">;</span>		<span class="cm">/* lower left */</span></div><div class='line' id='LC11'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">struct</span> <span class="n">point</span> <span class="n">ur</span><span class="p">;</span>		<span class="cm">/* upper right */</span></div><div class='line' id='LC12'><span class="p">};</span></div><div class='line' id='LC13'><br/></div><div class='line' id='LC14'><span class="kt">int</span> <span class="nf">main</span><span class="p">()</span></div><div class='line' id='LC15'><span class="p">{</span></div><div class='line' id='LC16'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">struct</span> <span class="n">rect</span> <span class="n">r1</span><span class="p">,</span> <span class="n">r2</span><span class="p">;</span></div><div class='line' id='LC17'><br/></div><div class='line' id='LC18'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="n">scanrect</span><span class="p">(</span><span class="s">&quot;Podaj wspolrzedne rect1&quot;</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">r1</span><span class="p">);</span></div><div class='line' id='LC19'><br/></div><div class='line' id='LC20'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="n">scanrect</span><span class="p">(</span><span class="s">&quot;Podaj wspolrzedne rect2&quot;</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">r2</span><span class="p">);</span></div><div class='line' id='LC21'><br/></div><div class='line' id='LC22'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="n">printf</span><span class="p">(</span><span class="s">&quot;%i </span><span class="se">\n</span><span class="s">&quot;</span><span class="p">,</span> <span class="n">disjointrect</span><span class="p">(</span><span class="n">r1</span><span class="p">,</span> <span class="n">r2</span><span class="p">));</span></div><div class='line' id='LC23'><br/></div><div class='line' id='LC24'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">return</span> <span class="mi">0</span><span class="p">;</span></div><div class='line' id='LC25'><span class="p">};</span></div><div class='line' id='LC26'><br/></div></pre></div>
+                <div class="highlight"><pre><div class='line' id='LC1'><span class="nv">CFLAGS</span> <span class="o">=</span> -Wall</div><div class='line' id='LC2'><br/></div><div class='line' id='LC3'>main: main.c lib.c lib.h</div><div class='line' id='LC4'>	cc -c -Wall main.c lib.c</div><div class='line' id='LC5'>	cc -Wall main.o lib.o</div><div class='line' id='LC6'><br/></div><div class='line' id='LC7'>clear: *.o *.out </div><div class='line' id='LC8'>	rm *.o *.out </div><div class='line' id='LC9'><br/></div></pre></div>
               
             
           </td>
@@ -743,7 +625,7 @@
           <li><a href="http://status.github.com">Status</a></li>
         </ul>
         <ul class="sosueme">
-          <li class="main">&copy; 2011 <span id="_rrt" title="0.06803s from fe3.rs.github.com">GitHub</span> Inc. All rights reserved.</li>
+          <li class="main">&copy; 2011 <span id="_rrt" title="0.05336s from fe5.rs.github.com">GitHub</span> Inc. All rights reserved.</li>
           <li><a href="/site/terms">Terms of Service</a></li>
           <li><a href="/site/privacy">Privacy</a></li>
           <li><a href="https://github.com/security">Security</a></li>
@@ -846,4 +728,105 @@
           <dd>Mark selected as read</dd>
         </dl>
         <dl class="keyboard-mappings">
-      
+          <dt>U</dt>
+          <dd>Mark selected as unread</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>e</dt>
+          <dd>Close selected</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>y</dt>
+          <dd>Remove selected from view</dd>
+        </dl>
+      </div><!-- /.column.middle -->
+      <div class="column last">
+        <dl class="keyboard-mappings">
+          <dt>c</dt>
+          <dd>Create issue</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>l</dt>
+          <dd>Create label</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>i</dt>
+          <dd>Back to inbox</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>u</dt>
+          <dd>Back to issues</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>/</dt>
+          <dd>Focus issues search</dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+
+  <div style='display:none'>
+    <div class="rule"></div>
+
+    <h3>Network Graph</h3>
+    <div class="columns equacols">
+      <div class="column first">
+        <dl class="keyboard-mappings">
+          <dt><span class="badmono">←</span> <em>or</em> h</dt>
+          <dd>Scroll left</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="badmono">→</span> <em>or</em> l</dt>
+          <dd>Scroll right</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="badmono">↑</span> <em>or</em> k</dt>
+          <dd>Scroll up</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="badmono">↓</span> <em>or</em> j</dt>
+          <dd>Scroll down</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>t</dt>
+          <dd>Toggle visibility of head labels</dd>
+        </dl>
+      </div><!-- /.column.first -->
+      <div class="column last">
+        <dl class="keyboard-mappings">
+          <dt>shift <span class="badmono">←</span> <em>or</em> shift h</dt>
+          <dd>Scroll all the way left</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>shift <span class="badmono">→</span> <em>or</em> shift l</dt>
+          <dd>Scroll all the way right</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>shift <span class="badmono">↑</span> <em>or</em> shift k</dt>
+          <dd>Scroll all the way up</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>shift <span class="badmono">↓</span> <em>or</em> shift j</dt>
+          <dd>Scroll all the way down</dd>
+        </dl>
+      </div><!-- /.column.last -->
+    </div>
+  </div>
+
+  <div >
+    <div class="rule"></div>
+    <div class="columns threecols">
+      <div class="column first" >
+        <h3>Source Code Browsing</h3>
+        <dl class="keyboard-mappings">
+          <dt>t</dt>
+          <dd>Activates the file finder</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>l</dt>
+          <dd>Jump to line</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>y</dt>
+          <dd>Expand URL to its canonical form</dd>
+       
