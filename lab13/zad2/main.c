@@ -1,25 +1,35 @@
-#include<stdio.h>
-#include "lib.h"
+#include <stdio.h>
 
-struct point {
-    int x;
-    int y;
-};
+int main() {
+  int t[4] = { 2, 8, 1, 3 }, 
+    int a[4] = { 0, 1, 2,3 }; //druga tablica
+  int i, j;
 
-struct rect {
-    struct point ll; /* lower left */
-    struct point ur; /* upper right */
-};
+  for (i = 0; i < 4; i++){
+    printf("%d ", t[i]); //podstawianie do tablicy t
 
-int main()
-{
-    struct rect r1, r2;
+}
+  printf("\n");
 
-    scanrect("Podaj wspolrzedne rect1:", &r1);
+  for (i = 0; i < 4; i++){
+ for (j=i+1; j < 4; j++){
+      if (t[i] > t[j]) {
+int temp;
+temp = a[i];
+a[i] = a[j];
+a[j] = temp;
+}
+for (i = 0; i < 4; i++) {
+printf("%d ", a[i]);
+    }
 
-    scanrect("Podaj wspolrzedne rect2:", &r2);
+    printf("\n");
 
-    printf("%i \n", rectinrect(r1, r2));
+    for (i = 0; i < 4; i++) {
+      printf("%d ", t[a[i]]); //sortowanie danych
+    }
 
+
+    printf("\n");
     return 0;
-};
+}

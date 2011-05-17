@@ -1,0 +1,5 @@
+zadanie domowe
+napisac w 1 pliku (plus make) program, ktory zrobi drzewo rekurencyjne (plik unicode, z polskimi znakami)
+
+triki:
+void wstaw_wierzcholek(*w,*s,w->lewe.poddrzewo)
