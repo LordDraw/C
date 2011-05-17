@@ -3,3 +3,5 @@ napisac w 1 pliku (plus make) program, ktory zrobi drzewo rekurencyjne (plik uni
 
 triki:
 void wstaw_wierzcholek(*w,*s,w->lewe.poddrzewo)
+Dane z rozdzialu o strukturach - zliczanie slow:
+http://sinatra.inf.ug.edu.pl/c/doc/fw.pdf
